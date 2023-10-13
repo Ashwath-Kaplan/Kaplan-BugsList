@@ -1,0 +1,7 @@
+.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: rgb(97, 94, 94) !important;
+}
+
+.formControl {
+  background-color: white;
+}
